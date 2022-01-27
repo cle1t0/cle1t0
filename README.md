@@ -5,6 +5,7 @@ As a student research assistant I am always amazed by the various ways technolog
 
 
 Reach out! :smiley:
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/thiago-nishimura)
 
 
