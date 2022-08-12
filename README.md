@@ -9,10 +9,7 @@ Reach out! :smiley:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/thiago-nishimura)
 
 
-My GitHub Stats ::chart_with_upwards_trend:
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsnishimura&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 
