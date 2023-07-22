@@ -2,7 +2,7 @@
 ### Welcome, I am Thiago Nishimura  :coffee:
 I am an undergrad student who loves programming.
 As a student research assistant I am always amazed by the various ways technology can positively impact people's lives!
-
+More recently, I have been working with informatics within the medical field. I am currently part of a team responsible for collaborating with physicians in studies that involve data and Machine Learning
 
 Reach out! :smiley:
 
